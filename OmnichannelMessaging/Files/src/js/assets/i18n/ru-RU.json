@@ -1,0 +1,29 @@
+{
+	"ChatSettings": {
+		"ChatWindow": {
+			"AcceptChatButton": "Принять чат",
+			"NewMessages": "Новые сообщения",
+			"ChatIsCompleted": "Чат завершен",
+			"BlankSlate": {
+				"NoChats": "Похоже, у вас нет доступных чатов",
+				"Add": "Добавьте",
+				"Description": "новый канал. Узнайте больше о работе с чатами на",
+				"Academy": "Академии",
+				"AcademyLink": "https://academy.terrasoft.ru/"
+			},
+			"Actions": {
+				"Complete": "Завершить чат"
+			},
+			"ChatListTitle": "Активные чаты",
+			"Tips": {
+				"BackToChats": "Вернуться к списку"
+			}
+		},
+		"History": {
+			"Captions": {
+				"StartDate": "Чат начат: {0}, ",
+				"EndDate": "Чат завершен: {0}, "
+			}
+		}
+	}
+}
