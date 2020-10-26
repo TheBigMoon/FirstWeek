@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fc3ecf7c-8a3d-4ad9-8bff-0385a31c2c1d",
+    "Name": "UsrDaniumCategoryFile",
+    "ModifiedOnUtc": "\/Date(1603706472000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта DaniumCategory",
+    "DependsOn": []
+  }
+}

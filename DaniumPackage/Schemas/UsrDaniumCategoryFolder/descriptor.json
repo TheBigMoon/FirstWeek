@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ccdf1c6e-46e8-42da-a2ed-a50a5ebdbc31",
+    "Name": "UsrDaniumCategoryFolder",
+    "ModifiedOnUtc": "\/Date(1603706475000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа DaniumCategory",
+    "DependsOn": []
+  }
+}

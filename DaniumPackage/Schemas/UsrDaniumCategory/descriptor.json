@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ec30b291-a8d7-422c-bc89-7776d3b09c02",
+    "Name": "UsrDaniumCategory",
+    "ModifiedOnUtc": "\/Date(1603706470000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DaniumCategory",
+    "DependsOn": []
+  }
+}

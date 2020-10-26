@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "10a46b4e-52be-4e10-9522-0731b0ec7931",
+    "Name": "UsrDaniumCategoryInTag",
+    "ModifiedOnUtc": "\/Date(1603706481000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела DaniumCategory",
+    "DependsOn": []
+  }
+}

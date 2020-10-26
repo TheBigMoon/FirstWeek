@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "672fa927-8ac6-48e2-884d-7f6a41df5fff",
+    "Name": "DaniumPackage",
+    "ModifiedOnUtc": "\/Date(1603706285000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "916b2f81-4cb4-41b6-92e1-a3ea6fb4e7f7",
+        "PackageVersion": "7.8.0",
+        "Name": "VisaNotification"
+      }
+    ]
+  }
+}
